@@ -16,9 +16,14 @@ This mirrors how PLCs perform:
 - Output execution checks  
 
 It is the same structure used in industrial automation, safety interlocks, and AI decision-audit systems.
+```
 ## Example Output
 
 Running the script produces:
 
+--- Decision Audit Result ---
+Audit Status: CRITICAL: Operator Error. Bias or emotion bypassed the Interceptor protocol.
+
+```
 
 This demonstrates how the classifier isolates the failure point in a system.
