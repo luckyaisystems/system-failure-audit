@@ -2,7 +2,7 @@
 
 A deterministic logic engine for classifying failure modes across input, operator, and execution layers — inspired by PLC safety interlocks and AI-assisted decision systems.
 
-![System Failure Audit Diagram](https://github.com/luckyaisystems/system-failure-audit/blob/main/Screenshot%202026-05-03%204.01.12%20PM.png)
+![image](https://github.com/luckyaisystems/system-failure-audit/blob/main/Screenshot%202026-05-03%204.01.12%20PM.png)
 
 ## Failure Mode Classification Table
 
