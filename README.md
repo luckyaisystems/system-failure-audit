@@ -20,10 +20,6 @@ This matches your polished diagram and gives the project a clean, readable refer
 
 The `failure_audit.py` script implements a deterministic 3-layer failure classifier:
 
-- **Input Layer (Model Error)** — Detects bad or corrupted data  
-- **Decision Layer (Operator Error)** — Detects bias, emotion, or logic violations  
-- **Execution Layer (Execution Decay)** — Detects timing failures, actuator breakdowns, or incomplete execution  
-
 This mirrors how PLCs perform:
 
 - Input validation  
